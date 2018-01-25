@@ -1,0 +1,23 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "A mockapi server base on json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienping/mockapi.git"
+  },
+  "author": "TienPing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tienping/mockapi/issues"
+  },
+  "homepage": "https://github.com/tienping/mockapi#readme",
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "require": "^2.4.20"
+  }
+}
